@@ -27,6 +27,9 @@ module.exports = {
         },
         cream: '#F5F0E8',
       },
+      fontFamily: {
+        sans: ['var(--font-inter)', 'system-ui', 'sans-serif'],
+      },
     },
   },
   plugins: [],
